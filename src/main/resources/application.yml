@@ -1,0 +1,10 @@
+server:
+  port: 8105
+spring:
+  application:
+    name: ms-bank-transaction-validate-service
+ # config:
+  #  import: optional:configserver:http://ms-bank-config-server:8888
+
+
+
